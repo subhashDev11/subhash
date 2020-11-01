@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/subhash/static/css/main.7e843ad1.chunk.css",
+    "main.js": "/subhash/static/js/main.01c6947c.chunk.js",
+    "main.js.map": "/subhash/static/js/main.01c6947c.chunk.js.map",
+    "runtime-main.js": "/subhash/static/js/runtime-main.01675c0a.js",
+    "runtime-main.js.map": "/subhash/static/js/runtime-main.01675c0a.js.map",
+    "static/js/2.e2568fad.chunk.js": "/subhash/static/js/2.e2568fad.chunk.js",
+    "static/js/2.e2568fad.chunk.js.map": "/subhash/static/js/2.e2568fad.chunk.js.map",
+    "static/js/3.3be27833.chunk.js": "/subhash/static/js/3.3be27833.chunk.js",
+    "static/js/3.3be27833.chunk.js.map": "/subhash/static/js/3.3be27833.chunk.js.map",
+    "index.html": "/subhash/index.html",
+    "static/css/main.7e843ad1.chunk.css.map": "/subhash/static/css/main.7e843ad1.chunk.css.map",
+    "static/js/2.e2568fad.chunk.js.LICENSE.txt": "/subhash/static/js/2.e2568fad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01675c0a.js",
+    "static/js/2.e2568fad.chunk.js",
+    "static/css/main.7e843ad1.chunk.css",
+    "static/js/main.01c6947c.chunk.js"
+  ]
+}
